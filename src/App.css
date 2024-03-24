@@ -1,11 +1,10 @@
 .custom-navbar {
   box-shadow: 0px 18px 10px -6px rgba(0, 0, 0, 0.1);
-  color: #0dba4b;
 }
 
 .custom-navbar-border {
-  font-size: 1rem;
-  font-weight: 500;
+  font-size: 1.1rem;
+  font-weight: 450;
 }
 
 .custom-text-overflow {
